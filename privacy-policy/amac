@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>FZG Apps</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="icon" type="image/png" href="../assets/favicon.png">
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
+  <script src="https://kit.fontawesome.com/8dd920cf42.js" crossorigin="anonymous"></script>
+</head>
+<body>
+
+<nav class="navbar navbar-expand-sm navbar-dark bg-dark">
+  <div class="container-fluid">
+    <a class="navbar-brand" href="../index.html">
+      <img src="../assets/favicon.png" alt="Logo" style="width:40px;" class="rounded-pill">
+    </a>
+    <a class="navbar-brand" href="../index.html">FZG Apps</a>
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#mynavbar">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="mynavbar">
+      <ul class="navbar-nav ms-auto">
+        <li class="nav-item">
+          <a class="nav-link" href="../requests.html">Requests</a>
+        </li>
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown">Privacy Policy</a>
+          <ul class="dropdown-menu">
+            <li><a class="dropdown-item" href="../privacy-policy/amac.html">Amaç</a></li>
+          </ul>
+        </li>
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown">Terms and Conditions</a>
+          <ul class="dropdown-menu">
+            <li><a class="dropdown-item" href="../terms-and-conditions/amac.html">Amaç</a></li>
+          </ul>
+        </li>
+      </ul>
+    </div>
+  </div>
+</nav>
+
+<div class="container mt-3">
+	<div class="card mb-3">
+		<!-- Left Image Section -->
+		<div class="card-body text-center">
+			<p class="card-text fw-bold">
+			  Privacy Policy
+			</p>
+		</div>
+	</div>
+	<div class="card mb-3">
+		<!-- Left Image Section -->
+		<div class="card-body text-center">
+			<small>FalseBet, developed by <a target='_blank' href="https://play.google.com/store/apps/dev?id=5659888228234214615">FZG Apps</a></small>
+		</div>
+	</div>
+	<div class="card mb-3">
+		<div class="card-body">
+			<p>This Privacy Policy outlines our policies and procedures on the collection, use, disclosure, and protection of your information when you use the Service. It also explains your privacy rights and the ways in which the law safeguards you. By using the Service, you agree to the collection and use of information in accordance with this Privacy Policy. If you do not agree, please refrain from using our Service.</p>
+			<h5>Interpretation</h5>
+			<p>The words where the initial letter is capitalized have specific meanings as outlined below. These definitions apply consistently whether they are used in singular or plural form.</p>
+
+			<h5>Definitions</h5>
+			<ul>
+				<li><strong>Account:</strong> A unique account created for you to access our Service or parts of it.</li>
+				<li><strong>Affiliate:</strong> An entity that controls, is controlled by, or is under common control with another entity. Control is defined as ownership of 50% or more of shares or other voting securities.</li>
+				<li><strong>Application:</strong> The "Amaç" software program provided by us.</li>
+				<li><strong>Company:</strong> Referred to as "we," "us," or "our," this refers to FZG Apps.</li>
+				<li><strong>Device:</strong> Any internet-capable device, including computers, mobile phones, or tablets, that can access the Service.</li>
+				<li><strong>Personal Data:</strong> Any information relating to an identifiable individual.</li>
+				<li><strong>Service:</strong> Refers to the Application.</li>
+				<li><strong>Service Provider:</strong> Any third-party entity or individual processing data on behalf of the Company to support the Service.</li>
+				<li><strong>Usage Data:</strong> Information automatically collected during usage of the Service, such as session data.</li>
+				<li><strong>You:</strong> The individual using the Service or any legal entity on whose behalf the Service is being accessed.</li>
+			</ul>
+
+			<h5>Personal Data</h5>
+			<p>We may collect Personal Data to provide and improve our Service. Examples include, but are not limited to:</p>
+			<ul>
+				<li>Name, email address, phone number.</li>
+				<li>Address, state, province, ZIP/postal code, and city.</li>
+				<li>Payment information if applicable for transactions.</li>
+			</ul>
+
+			<h5>Usage Data</h5>
+			<p>Collected automatically during interaction with the Service. Examples include:</p>
+			<ul>
+				<li>IP address, browser type, browser version, and time of access.</li>
+				<li>Device type, operating system, and diagnostic data when accessed via mobile.</li>
+				<li>Behavioral data such as pages visited, time spent on those pages, and click patterns.</li>
+			</ul>
+
+			<h5>How We Use Your Personal Data</h5>
+			<p>We may use your information for the following purposes:</p>
+			<ul>
+				<li><strong>To Provide and Maintain the Service:</strong> Ensure smooth operation and enhance user experience.</li>
+				<li><strong>Account Management:</strong> Handle your registration and user experience.</li>
+				<li><strong>Contract Fulfillment:</strong> Facilitate purchase agreements or service contracts.</li>
+				<li><strong>Communication:</strong> Contact you via email, SMS, or push notifications for updates and promotional content.</li>
+				<li><strong>Marketing and Offers:</strong> Provide information on similar goods or services unless you opt out.</li>
+				<li><strong>Support Requests:</strong> Address your concerns or questions.</li>
+				<li><strong>Business Transactions:</strong> Conduct evaluations for mergers, sales, or restructuring.</li>
+				<li><strong>Analysis and Research:</strong> Study usage trends to enhance features and security.</li>
+			</ul>
+
+			<h5>Sharing Your Personal Data</h5>
+			<p>We may share your data in these scenarios:</p>
+			<ul>
+				<li><strong>With Service Providers:</strong> To operate and analyze our Service.</li>
+				<li><strong>Business Transfers:</strong> During mergers or sales, with due notification to you.</li>
+				<li><strong>With Affiliates:</strong> Under strict adherence to this Privacy Policy.</li>
+				<li><strong>With Business Partners:</strong> For co-branded promotions or new product launches.</li>
+				<li><strong>With Other Users:</strong> When sharing data in public forums or comments.</li>
+				<li><strong>With Your Consent:</strong> For additional purposes disclosed to you.</li>
+			</ul>
+
+			<h5>Your Privacy Rights</h5>
+			<p>You have the right to access, update, or delete your Personal Data. For detailed instructions, please access your account settings or contact us directly.</p>
+			<p>For residents of the European Economic Area (EEA) and California, additional rights under GDPR and CCPA may apply.</p>
+
+			<h5>Security of Personal Data</h5>
+			<p>We employ robust security measures to protect your data. However, no method of transmission over the Internet is 100% secure. Please take personal precautions when accessing sensitive areas of the Service.</p>
+
+			<h5>Children's Privacy</h5>
+			<p>Our Service is not intended for children under 13. If you believe a child under 13 has provided us with Personal Data, contact us immediately.</p>
+
+			<h5>Updates to This Privacy Policy</h5>
+			<p>We reserve the right to update or change this Privacy Policy at any time. Any modifications will be effective immediately upon posting on this page. We encourage you to review this Privacy Policy periodically to stay informed about how we handle and protect your data. Your continued use of the Service after any changes constitutes acceptance of the updated policy.</p>
+
+			<h5>Contact Us</h5>
+			<p>If you have any questions about this Privacy Policy, please contact us at: <a href="mailto:fzgapps@gmail.com">fzgapps@gmail.com</a></p>
+			</br>
+			<p>Last updated: May 19, 2025</p>
+		</div>
+	</div>
+</div>
+
+</body>
+</html>
